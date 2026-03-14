@@ -812,51 +812,9 @@
 			)
 		)
 		(instances
-			(project "photoelectric_demonstrator"
+			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
 					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 137.16 187.96)
-		(size 26.67 22.86)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "6d16e437-bb43-4d36-b693-88f922937345")
-		(property "Sheetname" "laser_driver"
-			(at 137.16 187.2484 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "laser_driver.kicad_sch"
-			(at 137.16 211.4046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "photoelectric_demonstrator"
-				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
-					(page "17")
 				)
 			)
 		)
@@ -897,7 +855,7 @@
 			)
 		)
 		(instances
-			(project "photoelectric_demonstrator"
+			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
 					(page "8")
 				)
@@ -940,7 +898,7 @@
 			)
 		)
 		(instances
-			(project "photoelectric_demonstrator"
+			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
 					(page "6")
 				)
@@ -1033,7 +991,7 @@
 			)
 		)
 		(instances
-			(project "photoelectric_demonstrator"
+			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
 					(page "3")
 				)
@@ -1116,7 +1074,7 @@
 			)
 		)
 		(instances
-			(project "photoelectric_demonstrator"
+			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
 					(page "4")
 				)
@@ -1409,7 +1367,7 @@
 			)
 		)
 		(instances
-			(project "photoelectric_demonstrator"
+			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
 					(page "16")
 				)
@@ -1532,7 +1490,7 @@
 			)
 		)
 		(instances
-			(project "photoelectric_demonstrator"
+			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
 					(page "8")
 				)
@@ -1585,7 +1543,7 @@
 			)
 		)
 		(instances
-			(project "photoelectric_demonstrator"
+			(project "photoelectric_effect_demonstrator"
 				(path "/02a3d1a0-aaa6-4aef-8c62-d71953fb14c6"
 					(page "2")
 				)
